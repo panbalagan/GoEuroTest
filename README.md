@@ -3,7 +3,7 @@ Project Structure
 1. Main Application.Java
     Start up class which contains main method and accepts a parameter (CityName as mandatory)
 2. Model Package
-    Model for storing the city details
+    Model for storing the city detail
 3. Exporter Package
     This package contains details about the different exporter format. The software is architected in a form that it can also be used to
     export in different formats
